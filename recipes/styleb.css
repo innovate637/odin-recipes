@@ -1,0 +1,17 @@
+.title {
+    font-size: 32px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+img {
+    height: 100;
+    width: auto;
+}
+h2 {
+    color:red;
+    text-align: center;
+}
+.text-align {
+    text-align: center;
+}

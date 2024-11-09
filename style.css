@@ -1,0 +1,10 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-family: "Courier New","Monaco",Monospace;
+    text-align: center;
+}
+div {
+    color:red;
+    font-size: 32px;
+}
